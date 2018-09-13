@@ -1,2 +1,0 @@
-# sbox
-Created with CodeSandbox
